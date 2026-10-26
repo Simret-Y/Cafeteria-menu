@@ -1,0 +1,28 @@
+schema: "1"
+
+title: "Cafeteria / cafe menu and queue"
+
+summary: "A smart dining app that lets customers view daily menus, pre-order meals, and check estimated wait times to reduce long café queues."
+
+members:
+  - name: "Simret Yitbarek"
+    student_id: "UGR/7269/16"
+    email: "simretyitbarek@gmail.com"
+    github: "Simret-Y"
+
+  - name: "Yared Gebre"
+    student_id: "UGR/3138/16"
+    email: "Yaredgebre120@gmail.com"
+    github: "Yaya1200"
+
+  - name: "Tinsae Aysheshim"
+    student_id: "UGR/3476/16"
+    email: "tinsaeaysheshim3@gmail.com"
+    github: "Tin21habesha"
+
+  - name: "Meresiet Zekiros"
+    student_id: "UGR/8817/16"
+    email: "meresietzekiros24@gmail.com"
+    github: "meresiet-zekiros"
+
+
